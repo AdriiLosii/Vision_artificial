@@ -1,0 +1,6 @@
+/home/xose/Documentos/docencia/VA/TEORIA/TEMA2/CODIGO/C++/EspazosCor/build/CMakeFiles/edit_cache.dir
+/home/xose/Documentos/docencia/VA/TEORIA/TEMA2/CODIGO/C++/EspazosCor/build/CMakeFiles/YCrCbColor.out.dir
+/home/xose/Documentos/docencia/VA/TEORIA/TEMA2/CODIGO/C++/EspazosCor/build/CMakeFiles/LabColor.out.dir
+/home/xose/Documentos/docencia/VA/TEORIA/TEMA2/CODIGO/C++/EspazosCor/build/CMakeFiles/rebuild_cache.dir
+/home/xose/Documentos/docencia/VA/TEORIA/TEMA2/CODIGO/C++/EspazosCor/build/CMakeFiles/hsvColor.out.dir
+/home/xose/Documentos/docencia/VA/TEORIA/TEMA2/CODIGO/C++/EspazosCor/build/CMakeFiles/bgrColor.out.dir
